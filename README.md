@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 - 💻 **Machine and Code Languages:** PHP, JAVA, PYTHON
 - ⚙️ **Backend Forger:** Laravel
-- 🌈 **Frontend Architect with Power:** Livewire, Tailwind CSS, Bootstrap
+- 🌈 **Frontend Architect with Power:** Livewire, Tailwind CSS
 - 🌐 **Operations Territory:** Linux
 - 🧲 **Version Control Maestro:** Git
 - 🗃️ **Data Stasher:** MySQL, PostgresSql
